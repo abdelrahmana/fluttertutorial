@@ -1,0 +1,4 @@
+enum Infokeys{
+  gridListItems,
+  gridDetailsInfo
+}
